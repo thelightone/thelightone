@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img  src="https://media2.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif"  width="150"/>
-</div>
-<div id="badges" align="center">
+<div id="badges" align="left">
     <a href="https://www.credly.com/earner/earned/badge/0d96454c-161a-4507-a99a-7d7e1520390d">
     <img src="https://images.credly.com/size/680x680/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" width="80"/>
   </a>
@@ -13,7 +10,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Andrey 
+<h1 align="left">Hi there, I'm Andrey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ❄️ Game developer from Russia 
@@ -21,3 +18,6 @@
 🤖 Telegram bots developer
 
 🎯 Available for hire
+
+
+
