@@ -1,8 +1,9 @@
+<h1 align="left">Hi there, I'm Andrey 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyM2I1YzkxMGYyYmUxNTQxMjMwZDI5OWJmMzU3NjA3YzFhNDFmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F73KLZL9eAfDcDQFAt/giphy.gif" width="300" height="270"/>
 </div>
-<h1 align="left">Hi there, I'm Andrey 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 
 
 <ul>
