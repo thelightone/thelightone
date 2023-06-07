@@ -15,7 +15,7 @@
 
 ❄️ Game developer from Russia 
 
-🤖 Telegram bots developer
+🤖 Telegram bots creator
 
 🎯 Available for hire
 
