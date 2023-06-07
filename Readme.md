@@ -12,7 +12,7 @@
 <h1 align="left">Check out my games:
 </h1>
 <h3 align="left">
-  <a href=https://learn.unity.com/u/633b0af1edbc2a72789dbe60?tab=profile">
+  <a href=https://learn.unity.com/u/633b0af1edbc2a72789dbe60?tab=profile>
     <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/503924d3945d80e.png" width="150"/></h3>
 <br>
 
