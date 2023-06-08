@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyM2I1YzkxMGYyYmUxNTQxMjMwZDI5OWJmMzU3NjA3YzFhNDFmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F73KLZL9eAfDcDQFAt/giphy.gif" width="250" />
+  <img src="https://media0.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e478j2hjeu5h82t25tn5awni6g997rn5fyusl5vk90k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250" />
 </div>
 <h1 align="left">Hi there, I'm Andrey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -9,11 +9,12 @@
  <li>🎯 Available for hire</li>
 </ul>
 <br>
+
 <h1 align="left">Check out my games:
 </h1>
 <h3 align="left">
   <a href=https://learn.unity.com/u/633b0af1edbc2a72789dbe60?tab=profile>
-    <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/503924d3945d80e.png" width="150"/></h3>
+    <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/503924d3945d80e.png" width="170"/></h3>
 <br>
 
 <h1 align="left">My Unity badges: 
