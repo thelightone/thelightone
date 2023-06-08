@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e478j2hjeu5h82t25tn5awni6g997rn5fyusl5vk90k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250" />
+  <img src="https://media0.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e478j2hjeu5h82t25tn5awni6g997rn5fyusl5vk90k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230" />
 </div>
 <h1 align="left">Hi there, I'm Andrey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -8,15 +8,12 @@
  <li>🤖 Telegram bots creator</li>
  <li>🎯 Available for hire</li>
 </ul>
-<br>
 
 <h1 align="left">Check out my games:
 </h1>
 <h3 align="left">
   <a href=https://play.unity.com/u/ANesterov>
     <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/503924d3945d80e.png" width="170"/></h3>
-<br>
-
 <h1 align="left">My Unity badges: 
 </h1>
 <div id="badges" align="left">
