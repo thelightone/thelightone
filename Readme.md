@@ -5,7 +5,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <ul>
  <li>❄️ Game developer: C#, Unity</li>
- <li>🤖 Telegram bots creator</li>
+ <li>🤖 Telegram bots developer</li>
+ <li>⚔️ Creator of <a href="https://t.me/book_of_quests_bot">BOOK OF QUESTS game</a></li>
  <li>🎯 Available for hire</li>
 </ul>
 
