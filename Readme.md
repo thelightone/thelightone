@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e478j2hjeu5h82t25tn5awni6g997rn5fyusl5vk90k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230" />
 </div>
 <h1 align="left">Hi there, I'm Andrey 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" /></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <ul>
  <li>❄️ Game developer: C#, Unity</li>
  <li>🤖 Telegram bots developer</li>
