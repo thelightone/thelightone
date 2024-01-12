@@ -15,7 +15,7 @@
 <h3 align="left">
   <a href=https://play.unity.com/u/ANesterov>
     <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/503924d3945d80e.png" width="170"/></h3>
-<h1 align="left">My Unity badges: 
+<h1 align="left">My Unity certificates: 
 </h1>
 <div id="badges" align="left">
     <a href="https://www.credly.com/earner/earned/badge/0d96454c-161a-4507-a99a-7d7e1520390d">
