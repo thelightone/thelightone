@@ -7,7 +7,7 @@
  <li>❄️ Game developer: C#, Unity</li>
  <li>🤖 Telegram bots developer</li>
  <li>⚔️ Founder of <a href="https://t.me/book_of_quests_bot">BOOK OF QUESTS</a> game</li>
- <li>🎯 Available for hire. <a href="https://github.com/thelightone/thelightone/blob/main/10.23%20CV%20Nesterov.pdf">My CV</a></li>
+ <li>🎯 Available for hire. 
 </ul>
 
 <h1 align="left">Check out my games:
