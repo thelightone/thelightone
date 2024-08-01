@@ -6,15 +6,21 @@
 <ul>
  <li>❄️ Game developer: C#, Unity</li>
  <li>🤖 Telegram bots developer</li>
- <li>⚔️ Founder of <a href="https://t.me/book_of_quests_bot">BOOK OF QUESTS</a> game</li>
- <li>🎯 Available for hire. 
+ <li>🎯 Available for hire. CV: https://github.com/thelightone/thelightone/blob/main/Nesterov%20CV.pdf
 </ul>
 
 <h1 align="left">Check out my games:
 </h1>
-<h3 align="left">
-  <a href=https://play.unity.com/u/ANesterov>
-    <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/503924d3945d80e.png" width="170"/></h3>
+<h3 align="left">Dungeon Master Survival (Android)
+https://www.youtube.com/watch?v=wSeY40U9J5c
+https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DungeonMastersSurvival
+
+Yandex Games
+https://yandex.ru/games/developer/90756
+
+Mechanics and test projects
+https://play.unity.com/ru/user/5e95e8bf-e68f-47fb-b137-224453baefa6
+ </h3>
 <h1 align="left">My Unity certificates: 
 </h1>
 <div id="badges" align="left">
