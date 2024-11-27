@@ -6,7 +6,7 @@
 <ul>
  <li>❄️ Game developer: C#, Unity</li>
  <li>🤖 Telegram bots developer</li>
- <li>🎯 Available for hire. CV: https://github.com/thelightone/thelightone/blob/main/Nesterov%20CV.pdf
+ <li>🎯 Available for hire. CV: https://github.com/thelightone/thelightone/blob/main/Nesterov%20Unity%20Eng%20CV.pdf
 </ul>
 
 <h1 align="left">Check out my games:
