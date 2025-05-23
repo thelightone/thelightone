@@ -15,6 +15,9 @@
 <li> https://www.youtube.com/watch?v=wSeY40U9J5c </li>
 <li> https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DungeonMastersSurvival</li>
 
+<h3 align="left">Wizard's Royale (Android)    </h3>
+<li> [https://www.youtube.com/watch?v=wSeY40U9J5c](https://youtu.be/N5ongfkblRk) </li>
+
 <h3 align="left">Casual | Hypercasual  </h3>
 <li> https://thelightone.github.io/dwarfsoccer/ </li>
 <li> https://thelightone.github.io/lava/ </li>
