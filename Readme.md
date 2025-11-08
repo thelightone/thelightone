@@ -12,11 +12,13 @@
 <h1 align="left">Check out my games:
 </h1>
 <h3 align="left">Dungeon Master Survival (Android)    </h3>
-<li> https://www.youtube.com/watch?v=wSeY40U9J5c </li>
 <li> https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DungeonMastersSurvival</li>
 
 <h3 align="left">Wizard's Royale (Android)    </h3>
-<li> https://www.youtube.com/watch?v=N5ongfkblRk </li>
+https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.WizardsRoyale
+
+<h3 align="left">DragoGochi (Android)    </h3>
+https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DragoGochi
 
 <h3 align="left">Casual | Hypercasual  </h3>
 <li> https://thelightone.github.io/dwarfsoccer/ </li>
