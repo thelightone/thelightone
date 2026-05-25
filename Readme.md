@@ -4,9 +4,8 @@
 <h1 align="left">Hi there, I'm Andrey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <ul>
- <li>❄️ Game developer: C#, Unity</li>
+ <li>❄️ Game developer: C#/Unity, Mobile, PC, VR</li>
  <li>🤖 Telegram bots developer</li>
- <li>🎯 Available for hire. CV: https://github.com/thelightone/thelightone/blob/main/Andrei%20Nesterov%20Resume.pdf
 </ul>
 
 <h1 align="left">Check out my games:
