@@ -23,7 +23,5 @@ https://play.google.com/store/apps/details?id=com.StudioGoldenGames.TowersMonste
 
 <h3 align="left">MiniKnight (Android)    </h3>
 https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.MiniKnight
-
-    <img src="https://images.credly.com/size/680x680/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" width="90"/>
   </a>
 </div>
