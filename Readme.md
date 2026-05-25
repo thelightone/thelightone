@@ -19,20 +19,13 @@ https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.WizardsRoyal
 <h3 align="left">DragoGochi (Android)    </h3>
 https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DragoGochi
 
-<h3 align="left">Hypercasual  </h3>
-<li> https://thelightone.github.io/dwarfsoccer/ </li>
-<li> https://thelightone.github.io/lava/ </li>
-<li> https://thelightone.github.io/kungfu/ </li>
-<li> https://thelightone.github.io/bird/ </li>
-<li> https://thelightone.github.io/medved/ </li>
+<h3 align="left">Towera and Monsters (Android)    </h3>
+https://play.google.com/store/apps/details?id=com.StudioGoldenGames.TowersMonsters
 
-<h3 align="left">Mechanics and test projects  </h3>
-<li> https://play.unity.com/ru/user/5e95e8bf-e68f-47fb-b137-224453baefa6 </li>
+<h3 align="left">MiniKnight (Android)    </h3>
+https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.MiniKnight
 
-<h1 align="left">My Unity certificates: 
-</h1>
-<div id="badges" align="left">
-    <a href="https://www.credly.com/earner/earned/badge/0d96454c-161a-4507-a99a-7d7e1520390d">
+
     <img src="https://images.credly.com/size/680x680/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" width="90"/>
   </a>
    <a href="https://www.credly.com/earner/earned/badge/0d96454c-161a-4507-a99a-7d7e1520390d">
