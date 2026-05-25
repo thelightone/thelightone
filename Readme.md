@@ -13,15 +13,15 @@
 <li> https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DungeonMastersSurvival</li>
 
 <h3 align="left">Wizard's Royale (Android)    </h3>
-https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.WizardsRoyale
+<li> https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.WizardsRoyale</li>
 
 <h3 align="left">DragoGochi (Android)    </h3>
-https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DragoGochi
+<li> https://play.google.com/store/apps/details?id=com.StudioGoldenGames.DragoGochi</li>
 
 <h3 align="left">Towera and Monsters (Android)    </h3>
-https://play.google.com/store/apps/details?id=com.StudioGoldenGames.TowersMonsters
+<li> https://play.google.com/store/apps/details?id=com.StudioGoldenGames.TowersMonsters</li>
 
 <h3 align="left">MiniKnight (Android)    </h3>
-https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.MiniKnight
+<li> https://play.google.com/store/apps/details?id=com.GoldenGamesStudio.MiniKnight</li>
   </a>
 </div>
